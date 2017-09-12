@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="20170830_wyj_BlackHouse:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/20170830_wyj_BlackHouse_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="20170830_wyj_BlackHouse/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="20170830_wyj_BlackHouse" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
